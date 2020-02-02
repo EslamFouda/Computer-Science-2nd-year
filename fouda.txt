@@ -1,0 +1,10 @@
+1 - bc : Used for command line calculator
+2 - bg : Used to place foreground jobs in background
+3 - cp : Used to copy files or group of files or directory
+4 - Fun: Used to draw various type of patterns on the terminal
+5 - gawk : Used for pattern scanning and processing language
+6 - help : 	Displays information about shell built-in commands
+7 - history : Used to view the previously executed command
+8 - host : 	Used for DNS (Domain Name System) lookup operations
+9 - hostid :	Used to displays the Host’s ID in hexadecimal format
+10- ip : Used for performing several network administration tasks
